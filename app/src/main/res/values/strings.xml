@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Voltify</string>
+    <string name="t1">Vuoi visulaizzare i brani già \n presenti o aggiungere un brano?</string>
+    <string name="b1">Visualizza</string>
+    <string name="b2">Aggiungi</string>
+    <string name="t2">Inserisci i brani</string>
+
+    <string name="b3">Sovrascrivi</string>
+
+    <string name="ed1">Titolo</string>
+    <string name="ed2">Durata</string>
+    <string name="ed3">Autore</string>
+    <string name="ed4">Datacreazione</string>
+    <string-array name="genere">
+        <item>Indie</item>
+        <item>Rock</item>
+        <item>Metal</item>
+        <item>Pop</item>
+        <item>Rap</item>
+        <item>Trap</item>
+        <item>K-pop</item>
+        <item>Country</item>
+        <item>Punk</item>
+    </string-array>
+</resources>
